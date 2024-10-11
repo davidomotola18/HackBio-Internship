@@ -1,6 +1,6 @@
 **Literature Summary of Integrated genomic analyses of ovarian carcinoma**
 
-Authors: mennaelqott@gmail.com, esr2aelzoghby@gmail.com, davidomotola0@gmail.com, nishattamanna51@gmail.com
+Authors: mennaelqott@gmail.com, esr2aelzoghby@gmail.com, **davidomotola0@gmail.com**, nishattamanna51@gmail.com
 
 Video link: https://www.linkedin.com/posts/esr3ahmed_biomarkerdiscoveryresearch-hackbiointernship-activity-7238271424346357760-3PZL?utm_source=share&utm_medium=member_desktop
 
