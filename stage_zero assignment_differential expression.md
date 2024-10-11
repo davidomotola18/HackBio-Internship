@@ -1,4 +1,7 @@
-**Differential Expression: Downregulation and Upregulation**
+# TASK 0: ARTICLE ON TRANSCRIPTOMES
+
+
+## **Differential Expression: Downregulation and Upregulation**
 
 Differential expression plays a crucial role in cancer development and progression. Cancer cells often exhibit aberrant gene expression patterns compared to normal cells. Upregulation of oncogenes, genes that promote cell growth and division, can drive uncontrolled cell proliferation and tumor formation. Conversely, downregulation of tumor suppressor genes, which normally inhibit cell growth, can contribute to cancer development. By studying differential expression patterns in cancer cells, researchers can identify potential therapeutic targets and develop novel treatments.
 
@@ -9,18 +12,7 @@ Recent research studies have employed GSA to comprehend the anomalous molecular 
 Differential expression is potent for biomarker discovery  especially in cancer research. It identifies genes differentially expressed between cancer and normal tissues, aiding early detection, prognosis, and personalized treatment. With technological advancements,  its use is posed to be very effective.
 
  
-
- 
-
-** **
-
-** **
-
-** **
-
-** **
-
-**REFERENCES**
+## **REFERENCES**
 
 Deng, Y., Song, Y., Du, Q., Wang, C. C., Li, H., Sui, Y., Zhang, Y., & Tang, T. (2023). Anti-HPV16 oncoproteins siRNA therapy for cervical cancer using a novel transdermal peptide PKU12. Frontiers in Oncology , 13 , 1175958. <https://doi.org/10.3389/fonc.2023.1175958>
 
