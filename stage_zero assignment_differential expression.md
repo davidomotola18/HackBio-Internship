@@ -1,4 +1,4 @@
-# TASK 0: ARTICLE ON TRANSCRIPTOMES
+# TASK 0: ARTICLE ON TRANSCRIPTOMICS
 
 
 ## **Differential Expression: Downregulation and Upregulation**
