@@ -2,7 +2,7 @@
 
 # **BIOMARKER DISCOVERY IN ACUTE MYELOID LEUKEMIA USING DIFFERENTIAL GENE EXPRESSION AND MACHINE LEARNING**
 
-**TEAM:** Narendran Mayilvaganan (@Naren037), Ademilola Adekoya (@Demi\_Nevaeh), Ghizal Niko (@Ghizal), Eman Binte Hafeez (@emanuts), David Ojo (@Dajom), Lillian Mwinja (@LillianMwinja), Irina Andriushchenko (@rirkella), Antara Ghanta (@Tara)
+**TEAM:** Narendran Mayilvaganan (@Naren037), Ademilola Adekoya (@Demi\_Nevaeh), Ghizal Niko (@Ghizal), Eman Binte Hafeez (@emanuts), **David Ojo (@Dajom)**, Lillian Mwinja (@LillianMwinja), Irina Andriushchenko (@rirkella), Antara Ghanta (@Tara)
 
 **CODE:** https://github.com/Naren037/HackBio_Cancer_Internship/blob/7a54b35a64e06ebc2e754693d10b3aa75773a822/TASK%203/Codes/AML_Complete_Code.R
 
